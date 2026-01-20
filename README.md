@@ -111,12 +111,12 @@ target_link_libraries(your_app PRIVATE vpx)
 #include "vpx/vp8cx.h"  // VP8/VP9 encoder interface
 ```
 
-## IVF Container Format
+## Testing
 
-This build is designed for IVF container format (not WebM):
+Tests use the IVF container format:
 - Simple header + raw VP8/VP9 frames
 - ffmpeg can output IVF: `ffmpeg -i input.mp4 -c:v libvpx-vp9 output.ivf`
-- No WebM IO dependency required
+- No WebM IO dependency required for tests
 
 ## Project Structure
 
